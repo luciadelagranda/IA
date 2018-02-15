@@ -1,0 +1,1 @@
+Tiene implementadas todas las ampliaciones obligatiorias, y además consta de algunos efectos al rebotar en las paredes y con la pala.

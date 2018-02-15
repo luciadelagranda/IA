@@ -1,0 +1,5 @@
+pulsando la "c" -> Emieza el modo presentación.
+pulsando la "s" -> Para el modo presentación.
+pulsando la "p" -> pones todas las imagenes con un efecto rosa.
+pulsando la "b" -> pones todas las imagenes con un efecto azul.
+pulsando la "n" -> quitas cualquier efecto de imagen.

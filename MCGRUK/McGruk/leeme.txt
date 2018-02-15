@@ -1,0 +1,3 @@
+Pulsando "p"-> se reproduce aleatoriamente un vídeo y un audio, hasta que no finaliza el video no puedes volver a pulsar.
+Pulsando "s"-> contestas que sí a la pregunta y en la consola te sale si acertaste o no.
+Pulsando "n"-> contestas que sí a la pregunta y en la consola te sale si acertaste o no.
